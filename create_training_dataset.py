@@ -14,7 +14,7 @@ import pandas as pd
 #pd.set_option('display.width', 1000)
 
 #Set directory
-path_to_files = "/home/emikot/Desktop/linux/Python/chav/final_project/Downloaded_data"
+path_to_files = "/home/Desktop/linux/Python/chav/final_project/Downloaded_data"
 os.chdir(path_to_files)
 
 #Import available data
