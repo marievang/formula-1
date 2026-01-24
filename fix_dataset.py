@@ -5,7 +5,7 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
 # Replace 'your_file.tsv' with the path to your tab-separated file
-file_path = '/home/emikot/Desktop/linux/Python/chav/final_project/maria.tsv'
+file_path = '/home/Desktop/linux/Python/chav/final_project/maria.tsv'
 
 # Read the tab-separated file into a DataFrame
 df = pd.read_csv(file_path, sep='\t')
