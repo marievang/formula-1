@@ -1,4 +1,4 @@
-# Formula 1 Race Prediction & Analysis 
+# Formula 1 Race Podium Prediction
 
 > A comprehensive machine learning pipeline to predict F1 Race Winners and Podium finishes using historical telemetry, driver error rates, and qualifying data.
 
