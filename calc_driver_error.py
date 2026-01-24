@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #import csv
-os.chdir("/home/artemis/Desktop/linux/Python/chav/final_project/Downloaded_data")
+os.chdir("/home/Desktop/linux/Python/chav/final_project/Downloaded_data")
 
 #Race results
 race_results = pd.read_csv("results.csv")
