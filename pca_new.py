@@ -8,7 +8,7 @@ from sklearn.pipeline import Pipeline
 
 import os
 #import csv
-os.chdir("/home/emikot/Desktop/linux/Python/chav/final_project/Downloaded_data")
+os.chdir("/home/Desktop/linux/Python/chav/final_project/Downloaded_data")
 
 # Load data
 data = pd.read_csv('current_driver_dataset.csv')
