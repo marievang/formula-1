@@ -2,7 +2,7 @@
 import pandas as pd
 import os
 
-path_to_files = "/home/emikot/Desktop/linux/Python/chav/final_project/Downloaded_data"
+path_to_files = "/home/Desktop/linux/Python/chav/final_project/Downloaded_data"
 os.chdir(path_to_files)
 
 #Import data
