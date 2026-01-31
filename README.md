@@ -16,7 +16,6 @@ The goal is to predict race outcomes based on pre-race factors like Qualifying p
 * **Dimensionality Reduction:** Uses **PCA (Principal Component Analysis)** to analyze feature variance.
 * **Model Comparison:** Benchmarks **Random Forest** (with Hyperparameter Tuning) against **Logistic Regression** (CV).
 
-## Repository Structure
 
 The project is divided into Data Preparation, Feature Engineering, and Analysis.
 
